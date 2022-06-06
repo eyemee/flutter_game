@@ -1,6 +1,7 @@
 # flutter_game
 
 A new Flutter project.
+credit to : <a href="https://www.raywenderlich.com" rel="nofollow">raywenderlich.com</a>
 
 ## Getting Started
 
